@@ -56,7 +56,7 @@ with open(input_file) as financial_data:
 
 
 #calculate the average net change across the months
-average_change = sum(monthly_changes) /len(monthly_changes)
+average_change = sum(monthly_changes) /len(monthly changes)
 
 #generate the output summary
 output = (
