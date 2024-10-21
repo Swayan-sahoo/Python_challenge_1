@@ -21,7 +21,7 @@ This repository contains two Python-based data analytics projects: PyBank_Starte
 # PyPoll: A voting analysis tool for calculating election results from a set of voter data.
 These projects are designed for educational purposes, demonstrating basic skills in Python for data manipulation and analysis.
 
-PyBank_Starter
+## PyBank_Starter
 ## Goals
 The PyBank project is aimed at performing a simple analysis of financial records. It processes a set of monthly revenue data to calculate the following:
 
